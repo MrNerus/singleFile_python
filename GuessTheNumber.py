@@ -63,7 +63,7 @@ while True:
     
     # InGame Logics
     while True:
-        if counter == guessLimit:
+        if counter == guessLimit and limitedGuess:
             print(f"{COL_YELLOW}Attempt over! The number was {computerGuess}.{COL_RESET}")
             print(f"{COL_AQUA}\n\nNew Game {COL_RESET}")
             counter = 0
@@ -91,11 +91,3 @@ while True:
         except KeyboardInterrupt:
             print(f"{COL_AQUA}Game Terminated. {COL_RESET}")
             exit(0) 
-    
-        
-    
-            
-
-      
-
-
