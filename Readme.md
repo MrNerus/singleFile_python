@@ -3,6 +3,7 @@
 [List of Programs](#List)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Games](#List_Game)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GuessTheNumber](#List_Game_GuessTheNumber)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[HangMan](./HangMan/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Utilities](#list_utilities)</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ANSIColors](#list_utl_ANSIColors)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[DiceSim](#list_utl_DiceSim)<br>
@@ -19,7 +20,7 @@ Here, I try to create simple python program, but overcomlicate things. <br> The 
 - Some elements of output in terminal should be colorful.
 - There should be heavy implementation of fail-safe practice, like error handeling.
 - <code> Ctrl + C </code> should never crash the program. Termination must be done safely.
-- One program should be done and dusted in one file only
+- One program should be done and dusted in one file only. One program can have multiple assets as a file, but only one executable. This is to ensure program itself is simple. Just over complicated. 
 
 <a name="List"></a>
 # List of Programs
