@@ -3,7 +3,8 @@
 [List of Programs](#List)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Games](#List_Game)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GuessTheNumber](#List_Game_GuessTheNumber)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[HangMan](./HangMan/)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[HangMan](./Hangman/)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[RockPaperScissors](./RockPaperScissors/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Utilities](#list_utilities)</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ANSIColors](#list_utl_ANSIColors)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[DiceSim](#list_utl_DiceSim)<br>
